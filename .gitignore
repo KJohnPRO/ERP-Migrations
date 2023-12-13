@@ -1,3 +1,9 @@
+/djangoapp/static/
+/djangoapp/media/
+gunicorn-error-log
+__localcode
+/data/
+
 # Django #
 *.log
 *.pot
